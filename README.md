@@ -40,6 +40,7 @@ This is the folder structure we set up for you:
 
 ```txt
 /src
+  utils.tsx       # EDIT THIS
   index.tsx       # EDIT THIS
 /test
   blah.test.tsx   # EDIT THIS
